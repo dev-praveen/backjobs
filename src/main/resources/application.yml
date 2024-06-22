@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: backjobs
+org:
+  jobrunr:
+    background-job-server:
+      enabled: true
+    dashboard:
+      enabled: true
